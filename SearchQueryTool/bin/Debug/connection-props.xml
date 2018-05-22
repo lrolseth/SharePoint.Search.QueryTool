@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connection-Props>
+  <spsiteurl>https://ceridian.sharepoint.com/sites/intranet/</spsiteurl>
+  <timeout>30</timeout>
+  <accept>json</accept>
+  <httpmethod>GET</httpmethod>
+  <authtype>0</authtype>
+  <authmethod>0</authmethod>
+  <experimental>false</experimental>
+</Connection-Props>

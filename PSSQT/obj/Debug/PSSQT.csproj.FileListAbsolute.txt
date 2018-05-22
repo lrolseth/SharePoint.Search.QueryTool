@@ -1,0 +1,8 @@
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\bin\Debug\PSSQT.psd1
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\bin\Debug\PSSQT.dll
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\bin\Debug\PSSQT.pdb
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\bin\Debug\System.Management.Automation.dll
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\obj\Debug\PSSQT.csprojResolveAssemblyReference.cache
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\obj\Debug\PSSQT.csproj.CoreCompileInputs.cache
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\obj\Debug\PSSQT.dll
+C:\spfx\PnP-Tools-master\PnP-Tools-master\Solutions\SharePoint.Search.QueryTool\PSSQT\obj\Debug\PSSQT.pdb
